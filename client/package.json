@@ -4,6 +4,7 @@
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
+    "@deck.gl/react": "^7.3.6",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "mapbox-gl": "^1.4.1",
